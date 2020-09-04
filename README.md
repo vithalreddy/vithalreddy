@@ -1,30 +1,12 @@
 ### Hi there 👋
 
-<!--
-**vithalreddy/vithalreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Featured Blogs:
+-----------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<div align="center">
-	<br>
-	<br>
-	<br>
-	<br>
-	<img src="https://github.com/vithalreddy/vithalreddy/raw/master/spinner.svg?sanitize=true" width="40" height="40">
-	<p>Loading</p>
-	<br>
-	<br>
-	<br>
-	<br>
-</div>
+- [Get User’s IP address in Node.js (Express.js)](https://stackfame.com/get-ip-address-node)
+- [MongoDB chat schema](https://stackfame.com/mongodb-chat-schema-mongoose-chat-schema-chat-application)
+- [Node express graceful shutdown](https://stackfame.com/node-express-graceful-shutdown)
+- [5 ways to shuffle an array using javascript ES6](https://stackfame.com/5-ways-to-shuffle-an-array-using-moder-javascript-es6)
+- [Auto-refresh page once only after the first load](https://stackfame.com/auto-refresh-page-first-load-javascript-jquery)
+- [Editable HTML Table Using Javascript/Jquery](https://stackfame.com/editable-html-table-using-javascript-jquery)
