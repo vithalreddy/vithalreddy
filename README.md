@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vithalreddy&count_private=true" alt="VithalReddy's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=vithalreddy&count_private=true&show_icons=true&theme=dracula" alt="VithalReddy's github stats">
 </p>
 
 ### Featured Blogs:
